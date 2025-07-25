@@ -8,4 +8,5 @@ HTML, CSS, JavaScript and React used
 
 <h2> Gif </h2>
 
-![](Screen.gif)
+![Tenzies Oyunu](Tenzies-Gif.gif)
+
