@@ -1,4 +1,9 @@
-<h1> Tenzies Project </h1>
+<h1> Tenzies Project
+
+Link to the game = 
+https://tenziezzz.netlify.app/
+
+</h1>
 
 To create Tenzies game
 
